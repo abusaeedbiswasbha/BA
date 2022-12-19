@@ -1,0 +1,74 @@
+<body>
+  <div id="__APP"></div><script src="https://bin.bnbstatic.com/static-br/static/runtime/react/react.production.16.14.0.js" data-ot-ignore=""></script><script src="https://bin.bnbstatic.com/static-br/static/runtime/react-dom/react-dom.production.16.14.0.js" data-ot-ignore=""></script><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M86QHGF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script src="https://bin.bnbstatic.com/static-br/static/runtime/redux.4.1.0.min.js" data-ot-ignore=""></script><script src="https://bin.bnbstatic.com/static-br/static/runtime/react-redux.7.2.1.min.js" data-ot-ignore=""></script>
+  <script>window._env_='{"COMMIT_ID":"c6fd34c2e347941d52b26d1336b26e2d66e0ddee","STATIC_HOST":"https://bin.bnbstatic.com","RECAPTCHA_STATIC_HOST":"https://bin.bnbstatic.com","API_HOST":"https://www.binance.com","SITE_HOST":"https://www.binance.com","GA_TRACKING_ID":"UA-162512367-1","SENSORS_SERVER_HOST":"https://api.saasexch.com/bapi/fe/usd/sa?project=binance","ACCELERATE_DEFAULT_DOMAIN":"api.yshyqxx.com","ACCELERATE_ENBLED_SITES":"www.binancezh.com,www.binancezh.net,accounts.binancezh.com,accounts.binancezh.net,www.binancezh.pro,accounts.binancezh.pro,www.binancezh.cc,accounts.binancezh.cc,www.binancezh.co,accounts.binancezh.co,www.binancezh.io,accounts.binancezh.io,www.binancezh.be,accounts.binancezh.be,www.binancezh.ch,accounts.binancezh.ch,www.binancezh.sh,accounts.binancezh.sh,www.binancezh.in,accounts.binancezh.in,www.binancezh.ac,accounts.binancezh.ac,www.binancezh.top,accounts.binancezh.top,www.bnbzh.net,accounts.bnbzh.net,www.bnbzh.cc,accounts.bnbzh.cc,www.bnbzh.co,accounts.bnbzh.co,www.binancezh.jp,accounts.binancezh.jp,www.binancezh.cz,accounts.binancezh.cz,www.binancezh.biz,accounts.binancezh.biz,www.bnbzh.ac,accounts.bnbzh.ac,www.bnbzh.cz,accounts.bnbzh.cz,www.bnbzh.in,accounts.bnbzh.in","ACCELERATE_AVAILABLE_DOMAIN":"api.yshyqxx.com,api.hanqiweb.cloud","NETWORK_TIME_OUT":"10000","RETURN_TO_DEFAULT":"#origin#/:locale/my/dashboard","RETURN_TO_REGISTER":"#origin#/:locale/my/welcome","MERCHANT_CODE_LIST":"AdvCash;Flux;BigGo;BITTORRENTTEST;BITTORRENT;BCF;BCF001","MERCHANT_WHITELIST":"wallet.advcash.com;iflux.app;account.biggo.com;speed.btt.network;speed-dev.btt.network;charity.fe.devfdg.net;www.binance.charity","LANGUAGE_MAP":"en=English;zh-CN=简体中文;zh-TW=繁體中文 (台灣);zh-HK=繁體中文;ko=한국어;ru=Русский;es=Español (Internacional);es-LA=Español (Latinoamérica);es-MX=Español (México);fr=Français;de=Deutsch;vi=Tiếng Việt;tr=Türkçe;pt=Português;it=Italiano;pl=Polski;id=Bahasa Indonesia;uk-UA=Українська;ph=Filipino;ja=日本;en-AU=English (Australia);pt-BR=Português (Brasil);th=ไทย;in=English (India);ng=English (Nigeria);es-AR=Español (Argentina);ro=Română;bg=български;cs=Čeština;lv=latviešu valoda;bn=বাংলা;sv=svenska;pt-PT=Português (Portugal);ar=العربية;fi=Suomi;no=Norsk;hi=हिंदी","I18N_BASE_PRIVATE":"http://bin.bnbstatic.com.s3.ap-northeast-1.amazonaws.com/api/i18n/-/web/cms","I18N_BASE_PUBLIC":"https://bin.bnbstatic.com/api/i18n/-/web/cms","GOOGLE_RECAPTCHA_KEY":"6LcEixocAAAAAF5UqvSSh_yM2TctDdrkP8WjmENr","WS_HTTP_SDK_RESTFUL_RATE":"0.5","ACCOUNTS_HOST_PUBLIC":"https://accounts.binance.com","MARKET_STREAM_HOST":"wss://nbstream.binance.com","I18N_TRACK":"true","I18N_TRACK_HOST":"https://api.saasexch.com","SITE_HOST_TEMPLATE":"https://www.{{rootDomain}}","SMARTLING_ORG_ID":"%SMARTLING_ORG_ID%","ENABLE_VISUAL_CONTEXT_IN_QA_ENV":"%ENABLE_VISUAL_CONTEXT_IN_QA_ENV%","THEMIS_ADDRESS":"https://api.saasexch.com/bapi/themis/api/","THEMIS_ACCOUNTS_HEADER":"NTEwMzc1ODYwMTo4aThubklsaWVtTGZDUnZTN1ZyTzhIV2hCdEJFaDE2Zw==","GOOGLE_CLIENT_ID":"960821425630-aclsesu662patrhhq95iuuijekgg15p3.apps.googleusercontent.com","APPLE_CLIENT_ID":"com.czzhao.binance.client","PUBLIC_URL":"https://bin.bnbstatic.com/_next","KYC_THEMIS_KEY":"6861263246","KYC_THEMIS_SECRET":"u3yKQS67PjbxInGMB2Op5MekkptaHeEX","KYC_THEMIS_V2_KEY":"6861263246","KYC_THEMIS_V2_SECRET":"u3yKQS67PjbxInGMB2Op5MekkptaHeEX","THEMIS_ADDRESS_V2":"https://api.saasexch.com/bapi/themis/api/","ENV_NAME":"PROD","COMMIT_HEAD":"c6fd34c2e347941d52b26d1336b26e2d66e0ddee"}';window._env_=JSON.parse(window._env_);</script><script>window.__shuvi_public_path__=window._env_.PUBLIC_URL+"/"</script><script src="https://bin.bnbstatic.com/_next/static-br/static/runtime/polyfill-d3b338b74bc06f85dbd2.js" data-ot-ignore=""></script><script src="https://bin.bnbstatic.com/_next/static-br/static/runtime/webpack-d983a4170f1be33d7fb6.js" data-ot-ignore=""></script><script src="https://bin.bnbstatic.com/_next/static-br/static/chunks/framework.46da3669.js" data-ot-ignore=""></script><script src="https://bin.bnbstatic.com/_next/static-br/static/chunks/a29ae703.564f3d66.js" data-ot-ignore=""></script><script src="https://bin.bnbstatic.com/_next/static-br/static/chunks/2edb282b.40c8c8d2.js" data-ot-ignore=""></script><script src="https://bin.bnbstatic.com/_next/static-br/static/chunks/commons.42fcd12f.js" data-ot-ignore=""></script><script src="https://bin.bnbstatic.com/_next/static-br/static/runtime/sentry-b80e0c432d5076e30e43.js" data-ot-ignore=""></script><script src="https://bin.bnbstatic.com/_next/static-br/static/runtime/main-a778ad704c078ff5a594.js" data-ot-ignore=""></script><script>
+        if (typeof Sentry !== 'undefined') {
+          window.addEventListener('unhandledrejection', (event) => {
+            console.warn("UNHANDLED PROMISE REJECTION:", event.reason)
+            // eslint-disable-next-line no-undef -- Sentry
+            Sentry.captureMessage(event.reason)
+          })
+          // eslint-disable-next-line no-undef -- Sentry
+          Sentry.init({
+            dsn: 'https://f3051be9709a49a682c5cbc9f63e7cdb@o529943.ingest.sentry.io/5762379',
+            release: window._env_.COMMIT_HEAD,
+            attachStacktrace: true,
+            tracesSampleRate: 0.001,
+            beforeSend: (event, hint) => {
+              let sampleRate = 0.01
+              // if error level is fatal, we don't want to sample it
+              if (event && event.level && event.level === 'fatal') {
+                sampleRate = 1
+              }
+              if (hint && hint.originalException) {
+                const error = hint.originalException
+                if (error && error.message === 'ResizeObserver loop limit exceeded') {
+                  return null
+                }
+                // add more info for some errors to make it more useful
+                if (error && error.message && error.message.includes('The quota has been exceeded')) {
+                  try {
+                    let _lsTotal = 0
+                    let _xLen
+                    let _x
+                    for (_x in localStorage) {
+                      if (!localStorage.hasOwnProperty(_x)) {
+                        continue
+                      }
+                      _xLen = (localStorage[_x].length + _x.length) * 2
+                      _lsTotal += _xLen
+                      if ((_xLen / 1024).toFixed(2) > 1) {
+                        event.extra[_x.substr(0, 50)] = (_xLen / 1024).toFixed(2)
+                      }
+                    }
+                    event.extra.localStorageTotal = (_lsTotal / 1024).toFixed(2)
+                    event.tags.localStorage = '1'
+                  } catch (e) {
+                    event.tags.localStorage = '0'
+                  }
+                }
+                // add more info for some errors to make it more useful
+                if (error && error.message === 'Cannot redefine property: src') {
+                  try {
+                    event.extra.plugins = Array.from(navigator.plugins || [])
+                      .map((item) => item.name)
+                      .join()
+                    event.extra.OtAutoBlockTimes = Array.from(document.querySelectorAll('script')).filter((script) =>
+                      script.src.includes('OtAutoBlock.js'),
+                    ).length
+                    event.tags.plugins = '1'
+                  } catch (e) {
+                    event.tags.plugins = '0'
+                  }
+                }
+              }
+              const random = Math.random()
+              if (random <= sampleRate) {
+                return event
+              }
+              return null
+            },
+          })
+        }</script>
+
+
+</body></html>
